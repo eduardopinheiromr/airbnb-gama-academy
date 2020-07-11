@@ -28,3 +28,9 @@
 img {
   max-height: 200px;
 }
+
+.price{
+  font-size: 11pt;
+  color: #333;
+  font-weight: normal;
+}
